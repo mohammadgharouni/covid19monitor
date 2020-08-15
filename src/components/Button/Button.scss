@@ -1,0 +1,10 @@
+button {
+    color: rgb(0, 153, 255);
+    padding: 16px;
+    border-radius: 16px;
+    border: none;
+    font-size: 20px;
+    &:focus{
+        border: none;
+    }
+}

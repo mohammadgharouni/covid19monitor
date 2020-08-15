@@ -1,0 +1,6 @@
+export const SET_COUNTRY_NAME = "SET_COUNTRY_NAME";
+
+export const FETCH_DATA = "FETCH_DATA";
+export const FETCH_DATA_START = "FETCH_DATA_START";
+export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
+export const FETCH_DATA_FAIL = "FETCH_DATA_FAIL";
